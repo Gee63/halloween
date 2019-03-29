@@ -7,4 +7,5 @@ A simple promotion that was created for a casino. The aim was to progress the wi
 Enter into console: 
 
 Step10() (1 - 10)
+
 level3() (1 - 3)
